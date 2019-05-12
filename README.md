@@ -1,3 +1,3 @@
 # NAS_SmartContract
 
-some SmartContract on NAS
+some SmartContracts running on NAS
